@@ -1108,7 +1108,7 @@ window.QUIZ_DATA = {
     },
     {
       "id": "sport_svenska_idrottare",
-      "title": "96 sportfrågor om svenska idrottare: historia och nutid",
+      "title": "96 frågor om svenska idrottare: historia och nutid",
       "questions": [
         {
           "id": "sport_svenska_idrottare_001",
@@ -3422,7 +3422,7 @@ window.QUIZ_DATA = {
     },
     {
       "id": "blandat_tp_niva",
-      "title": "58 blandade TP-nivåfrågor",
+      "title": "58 blandade frågor",
       "questions": [
         {
           "id": "blandat_tp_niva_001",

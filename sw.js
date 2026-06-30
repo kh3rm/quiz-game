@@ -1,4 +1,4 @@
-const CACHE_NAME = "quiz-pwa-v5-less-noise";
+const CACHE_NAME = "quiz-pwa-v7-mobile-hero-tune";
 
 const CORE_ASSETS = [
   "./",
@@ -10,6 +10,21 @@ const CORE_ASSETS = [
   "./reset-cache.html",
   "./assets/hero.webp",
   "./assets/football-hero.webp",
+  "./assets/icons/favicon.ico",
+  "./assets/icons/favicon-16x16.png",
+  "./assets/icons/favicon-32x32.png",
+  "./assets/icons/favicon-48x48.png",
+  "./assets/icons/apple-touch-icon.png",
+  "./assets/icons/icon-72x72.png",
+  "./assets/icons/icon-96x96.png",
+  "./assets/icons/icon-128x128.png",
+  "./assets/icons/icon-144x144.png",
+  "./assets/icons/icon-152x152.png",
+  "./assets/icons/icon-192x192.png",
+  "./assets/icons/icon-384x384.png",
+  "./assets/icons/icon-512x512.png",
+  "./assets/icons/maskable-icon-192x192.png",
+  "./assets/icons/maskable-icon-512x512.png",
   "./assets/icons/icon-192.png",
   "./assets/icons/icon-512.png"
 ];

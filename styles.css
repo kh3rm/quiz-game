@@ -341,6 +341,10 @@ legend,
   align-items: center;
 }
 
+.options-card .actions {
+  margin-top: 16px;
+}
+
 .btn {
   min-height: 46px;
   border-radius: 999px;
@@ -730,8 +734,8 @@ body.view-football .site-footer {
 }
 
 @media (max-width: 820px) {
-  .hero { min-height: 360px; background-position: 60% center; }
-  body.view-football .hero { background-position: 55% center; }
+  .hero { min-height: 360px; background-position: 70% center; }
+  body.view-football .hero { background-position: 50% center; }
   body.view-football .setup-grid { grid-template-columns: 1fr; }
   .topbar { align-items: flex-start; flex-direction: column; }
   .nav-links { width: 100%; justify-content: space-between; }
@@ -749,7 +753,14 @@ body.view-football .site-footer {
 @media (max-width: 520px) {
   .app-shell { width: min(100% - 20px, var(--max)); margin-top: -46px; }
   .hero { min-height: 335px; }
-  body.view-football .hero { min-height: 360px; background-position: 57% center; }
+  body.view-football .hero {
+    min-height: 360px;
+    background:
+      radial-gradient(ellipse at 35% 62%, rgba(255, 218, 116, 0.18) 0%, rgba(255, 218, 116, 0.08) 30%, rgba(255, 218, 116, 0) 58%),
+      linear-gradient(90deg, rgba(2, 9, 14, 0.92) 0%, rgba(3, 12, 19, 0.64) 35%, rgba(3, 12, 19, 0.16) 78%),
+      url("./assets/football-hero.webp") 49% center / cover no-repeat;
+  }
+  body.view-custom .hero { background-position: 76% center; }
   .hero-copy p:last-child { display: none; }
   .panel { border-radius: 22px; }
   .count-row { grid-template-columns: 1fr; }
