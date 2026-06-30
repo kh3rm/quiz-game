@@ -601,7 +601,7 @@ window.QUIZ_DATA = {
         {
           "id": "svenska_landslaget_aktuell_trupp_2026_016",
           "q": "Vad heter den nu skadade GAIS-spelaren som gjorde förarbetet till det avgjörande playoff-målet mot Polen?",
-          "a": "Gustaf Lundgren.",
+          "a": "Gustav Lundgren.",
           "played": false
         },
         {
@@ -624,7 +624,7 @@ window.QUIZ_DATA = {
         },
         {
           "id": "svenska_landslaget_aktuell_trupp_2026_020",
-          "q": "Vad blev slutresultatet i den första playoffmatchen mot Ukraina, när Sverige trots allt krånglade sig till VM?",
+          "q": "Vad blev slutresultatet i den första playoffmatchen mot Ukraina, när Sverige trots allt lyckades krångla sig till VM?",
           "a": "3-1 Sverige.",
           "played": false
         }
