@@ -506,7 +506,7 @@ window.QUIZ_DATA = {
     },
     {
       "id": "svenska_landslaget_aktuell_trupp_2026",
-      "title": "15 svenska landslagsfrågor: aktuell VM-trupp 2026",
+      "title": "20 svenska landslagsfrågor: aktuell VM-trupp 2026",
       "questions": [
         {
           "id": "svenska_landslaget_aktuell_trupp_2026_001",
