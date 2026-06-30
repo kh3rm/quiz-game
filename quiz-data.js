@@ -312,7 +312,7 @@ window.QUIZ_DATA = {
     },
     {
       "id": "svenska_landslaget_generellt_historiskt",
-      "title": "20 svenska landslagsfrågor: generellt och historiskt",
+      "title": "20 svenska landslagsfrågor: generella och historiska",
       "questions": [
         {
           "id": "svenska_landslaget_generellt_historiskt_001",
@@ -596,6 +596,36 @@ window.QUIZ_DATA = {
           "id": "svenska_landslaget_aktuell_trupp_2026_015",
           "q": "Vilken svensk anfallare i VM-truppen 2026 spelar för Club Brugge?",
           "a": "Gustaf Nilsson.",
+          "played": false
+        },
+        {
+          "id": "svenska_landslaget_aktuell_trupp_2026_016",
+          "q": "Vad heter den nu skadade GAIS-spelaren som gjorde förarbetet till det avgjörande playoff-målet mot Polen?",
+          "a": "Gustaf Lundgren.",
+          "played": false
+        },
+        {
+          "id": "svenska_landslaget_aktuell_trupp_2026_017",
+          "q": "Vad heter Malmöspelaren, en joker i denna trupp, som gjorde succeartat inhopp och assist mot Grekland?",
+          "a": "Taha Ali.",
+          "played": false
+        },
+        {
+          "id": "svenska_landslaget_aktuell_trupp_2026_018",
+          "q": "Vem är assisterande tränare till Graham Potter?",
+          "a": "Sebastian Larsson.",
+          "played": false
+        },
+        {
+          "id": "svenska_landslaget_aktuell_trupp_2026_019",
+          "q": "Med vilken engelsk klubb hade Graham Potter sina hittills största framgångar (som ledde till att han fick Chelsea-jobbet)?",
+          "a": "Brighton & Hove Albion.",
+          "played": false
+        },
+        {
+          "id": "svenska_landslaget_aktuell_trupp_2026_020",
+          "q": "Vad blev slutresultatet i den första playoffmatchen mot Ukraina, när Sverige trots allt krånglade sig till VM?",
+          "a": "3-1 Sverige.",
           "played": false
         }
       ],
